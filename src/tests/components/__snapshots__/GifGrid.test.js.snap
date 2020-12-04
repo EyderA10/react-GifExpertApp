@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas con gif grid Se debe mostrar correctamente 1`] = `
+<div>
+  <h3
+    className="animate__animated animate__delay-2s 2s"
+  >
+    Hola mundo
+  </h3>
+  <p
+    className="animate__animated animate__flash"
+  >
+    Cargando Gifs..
+  </p>
+  <div
+    className="card-grid"
+  />
+</div>
+`;
